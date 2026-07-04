@@ -1,6 +1,6 @@
-# 👋 Olá, eu sou o sirdom003-hub!
+# 👋 Olá!
 
-Bem-vindo(a) ao meu perfil no GitHub! Sou um estudante de tecnologia focado em aprender desenvolvimento de software, construindo uma base sólida em lógica de programação e tecnologias web através de projetos práticos.
+Bem-vindo(a) ao meu perfil!
 
 ---
 
